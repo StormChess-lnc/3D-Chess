@@ -16,7 +16,7 @@
 
 ### ✅ **Step 2: Download the Project**
 
-   👉 https://bitbucket.org/playmeta/3d-chess/src/main/
+   👉 https://github.com/StormChess-lnc/3D-Chess
 
 
    **Screenshot for reference:**  
@@ -28,7 +28,7 @@
 
    📌 Extract downloaded project( `.zip` file )
 
-   📌 Replace extracted folder(directory) name to `chess-main`
+   📌 Replace extracted folder(directory) name to `chess`
 
    📌 Open Terminal 
       
@@ -38,17 +38,17 @@
    📌 Navigate to the Project Directory on Terminal
 
    ```bash
-   cd ~/Downloads/chess-main
+   cd ~/Downloads/chess
    ```
    📌Install Project Dependencies ( This will take time 1~2 minutes )
 
    ```bash
-   /Downloads/chess-main>npm install
+   /Downloads/chess>npm install
    ```
    📌 Start the Project
 
    ```bash
-   /Downloads/chess-main>npm start
+   /Downloads/chess>npm start
    ```
 
 ---
